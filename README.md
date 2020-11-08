@@ -6,10 +6,11 @@
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Latihan 1 | [penjelasan](#Soal-latihan1.py) | [codenye](#latihan1.py) |
-| 2. | Latihan 2 | [penjelasan](#Soal-latihan2.py) | [codenye](#latihan2.py) |
-| 1. | praktikum 3 | [penjelasan](#Soal-program1.py) | [codenye](#program1.py) |
-# latihan1.py
+| 1. | Latihan 1 | [penjelasan](#latihan-1.py) | [codenye](#latihan1.py) |
+| 2. | Latihan 2 | [penjelasan](#latihan-2.py) | [codenye](#latihan2.py) |
+| 1. | praktikum 3 | [penjelasan](#program1.py) | [codenye](#program1.py) |
+
+### latihan 1.py
 
 # Soal latihan1.py
 
@@ -38,7 +39,7 @@ untuk menyelesaikannya
 
  ![GitHub Logo](gambar/hasillatihan1.png) <h2>
 
-### Latihan 2
+### latihan 2
 # Soal latihan2.py :
 
   Membuat program untuk menampilkan bilangan terbesar dari n buah data 
@@ -84,7 +85,7 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 
 # ![GitHub Logo](gambar/hasillatihan2.png) <h2>
 
-
+### program1.py
 # Soal program1.py
 
 
@@ -147,12 +148,12 @@ ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 
 ## Syntax program3 sebagai berikut :
 
-# ![GitHub Logo](inputanprogram1.png) <h2>
+# ![GitHub Logo](gambar/inputanprogram1.png) <h2>
 
 
 ## Hasil output program3 ketika runtime adalah sebagai berikut :
 
-# ![GitHub Logo](hasilprogram1.png) <h2>
+# ![GitHub Logo](gambar/hasilprogram1.png) <h2>
 
 
 
