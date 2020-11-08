@@ -6,13 +6,13 @@
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Latihan 1 | [penjelasan](#latihan-1.py) | [codenye](#latihan1.py) |
-| 2. | Latihan 2 | [penjelasan](#latihan-2.py) | [codenye](#latihan2.py) |
-| 1. | praktikum 3 | [penjelasan](#program1.py) | [codenye](#program1.py) |
+| 1. | Latihan 1 | [penjelasan](#Latihan-1) | [codenye](#latihan1.py) |
+| 2. | Latihan 2 | [penjelasan](#latihan-2) | [codenye](#latihan2.py) |
+| 3. | Program 1 | [penjelasan](#program-1) | [codenye](#program1.py) |
 
-### latihan 1.py
+### Latihan 1
 
-# Soal latihan1.py
+# Soal latihan1
 
 1. Tampilkan n bilangan acak yang lebih kecil dari 0,5.
 2. Nilai n diisi pada saat RUN time
@@ -39,8 +39,8 @@ untuk menyelesaikannya
 
  ![GitHub Logo](gambar/hasillatihan1.png) <h2>
 
-### latihan 2
-# Soal latihan2.py :
+### Latihan 2
+# Soal latihan2
 
   Membuat program untuk menampilkan bilangan terbesar dari n buah data 
 yang diinputkan.Masukkan angka 0 untuk berhenti.
@@ -85,9 +85,8 @@ nilai terbesar diantara bilangan tersebut dalam perulangan.
 
 # ![GitHub Logo](gambar/hasillatihan2.png) <h2>
 
-### program1.py
-# Soal program1.py
-
+### program 1
+# Soal program 1
 
   *Membuat program sederhana dengan perulangan :
 
